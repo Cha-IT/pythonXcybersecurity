@@ -1,3 +1,5 @@
+[🇳🇴 Norsk Versjon](README_NO.md)
+
 # Lesson 3: Cryptography & Secrets in Code
 
 ## Overview

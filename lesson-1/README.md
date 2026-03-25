@@ -1,3 +1,5 @@
+[🇳🇴 Norsk Versjon](README_NO.md)
+
 # Lesson 1: Python Thinks Like a Hacker
 
 This folder contains all the teaching materials for the first lesson of the Python + Cybersecurity course.

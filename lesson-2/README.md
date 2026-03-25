@@ -1,3 +1,5 @@
+[🇳🇴 Norsk Versjon](README_NO.md)
+
 # Lesson 2: Data, Files & Digital Forensics
 
 This lesson focuses on how to handle data in Python by reading files and analyzing server logs to detect cyber attacks.
